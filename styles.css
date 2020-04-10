@@ -9,3 +9,9 @@ h1{
 	text-align: 10px;
 	color: blue;
 }
+ul{
+	color: green;
+	font-family: Helvetica;
+	padding: 10px;
+	text-align: center;
+}
