@@ -1,17 +1,32 @@
-p{
-	color: red;
-	font-family: sans-serif;
-} 	
-h1{
-	text-align: center;
-	font-family: Arial;
-	padding: 20px;
-	text-align: 10px;
-	color: blue;
+#header {
+	background-color: lightgrey;
+	width: 33%;
 }
-ul{
-	color: green;
-	font-family: Helvetica;
-	padding: 10px;
+
+#workingdays {
+	background-color: lightblue;
+	width: 33%;	
+}
+
+#logo {
+	background-color: lightgreen;
+	width: 33%;
+}
+
+p {
+	font-size: 18px;
+	font-family: Arial;
 	text-align: left;
+	padding-left: 3px;
+	text-align: top;
+	margin-top: 5px;
+}
+
+table {
+	font-family: Arial;
+	font-size: 12px;
+	text-align: center;
+	margin-top: 5px;
+	border-width: 1px;
+	border-color: black;
 }
